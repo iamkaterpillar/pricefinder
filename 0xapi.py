@@ -19,3 +19,5 @@ parseresponse = resp.json()
 # pp.pprint(parseresponse)
 p=float(parseresponse['price'])
 print(1/p)
+
+# Hello git
